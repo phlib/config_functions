@@ -1,6 +1,7 @@
 {
     "name": "phlib/config_functions",
     "description": "Config functions",
+    "license": "LGPL-3.0",
     "authors": [
         {
             "name": "James Dempster"
