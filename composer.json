@@ -7,16 +7,11 @@
             "name": "James Dempster"
         }
     ],
-    "config": {
-        "platform": {
-            "php": "5.4"
-        }
-    },
     "require": {
-        "php": ">=5.4"
+        "php": "^5.4|^7"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.4"
+        "phpunit/phpunit": "^4.4"
     },
     "autoload": {
         "files": ["src/functions.php"]
