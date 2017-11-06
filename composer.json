@@ -1,12 +1,15 @@
 {
     "name": "phlib/config_functions",
-    "description": "Config functions",
+    "description": "[DEPRECATED]: Please see phlib/config",
     "license": "LGPL-3.0",
     "authors": [
         {
             "name": "James Dempster"
         }
     ],
+    "suggest": {
+        "phlib/config": "phlib/config_functions is deprecated and no longer supported. Please see phlib/config"
+    },
     "require": {
         "php": "^5.4|^7"
     },

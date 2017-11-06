@@ -6,6 +6,11 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/phlib/config_functions.svg)](https://packagist.org/packages/phlib/config_functions)
 ![Licence](https://img.shields.io/github/license/phlib/config_functions.svg)
 
+## Deprecated
+
+This package is deprecated and no longer supported.
+Please see [phlib/config](https://github.com/phlib/config).
+
 ## License
 
 This package is free software: you can redistribute it and/or modify
